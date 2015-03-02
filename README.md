@@ -1,6 +1,8 @@
 == README
 
-#i'm boring and only used the -T option that was specified for the assignment with the original app I created. I wanted to dip my toes into new waters but I'll push on for now.
+#i'm boring and only used the -T option that was specified for the assignment with the original app I created. I wanted to dip my toes into new waters but I'll push on for now. 
+
+##
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
